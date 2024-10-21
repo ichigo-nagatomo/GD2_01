@@ -1589,7 +1589,7 @@ MonoBehaviour:
   - {fileID: 1734861881}
   - {fileID: 1161178582}
   - {fileID: 1967851927}
-  sceneNum: 5
+  nextSceneNum: 5
   resetSceneNum: 4
 --- !u!114 &1919583298 stripped
 MonoBehaviour:

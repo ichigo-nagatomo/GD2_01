@@ -1813,7 +1813,7 @@ MonoBehaviour:
   - {fileID: 1280414926}
   singleTvs:
   - {fileID: 1919583298}
-  sceneNum: 3
+  nextSceneNum: 3
   resetSceneNum: 2
 --- !u!114 &1919583298 stripped
 MonoBehaviour:

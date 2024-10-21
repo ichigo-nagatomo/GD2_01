@@ -1898,7 +1898,8 @@ MonoBehaviour:
   - {fileID: 1280414926}
   singleTvs:
   - {fileID: 1919583298}
-  sceneNum: 1
+  nextSceneNum: 1
+  resetSceneNum: 0
 --- !u!114 &1919583298 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: -4935858050927566143, guid: 4f151755bb7ee4240be2b0dc4db52132, type: 3}
